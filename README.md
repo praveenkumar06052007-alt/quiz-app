@@ -28,3 +28,4 @@ OVERALL, THIS QUIZ APPLICATION DELIVERS A POLISHED AND PROFESSIONAL SOLUTION THA
 
 #OUTPUT
 
+<img width="1893" height="859" alt="Image" src="https://github.com/user-attachments/assets/1eb7c677-77fd-45b6-9ce7-26be0120bab6" />
